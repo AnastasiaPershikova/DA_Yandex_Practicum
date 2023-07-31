@@ -11,7 +11,9 @@
 Для анализа предоставлены файл `bank_scrooge.csv` с данными о клиентах трех филиалов "Метанпромбанк" в Ростове Великом, Рыбинске и Ярославле. В связи с увеличением оттока клиентов, для повышения качества обслуживания и формирования узконаправленного пакета продуктов, маркетинговому отделу банка необходимо выявить сегменты пользователей и характеристики клиентов внутри сегмента.
 
 Ссылка на Дашборд:
-https://public.tableau.com/views/Banks_16857907011930/sheet1?:language=en-US&:display_count=n&:origin=viz_share_link
+https://public.tableau.com/views/Banks_16857907011930/sheet1?:language=en-US&:display_count=n&:origin=viz_share_link  
+Ссылка на презентацию:
+https://cloud.mail.ru/home/Banks_Pershikova_presentation.pdf?weblink=5hzY%2FDmx5HsrHZ
 
 Навыки и инструменты
 Pandas, Matplotlib, Seaborn, Tableau, визуализация
