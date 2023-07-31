@@ -9,6 +9,7 @@
 Навыки и инструменты:
 Pandas, Plotly, Folium, Seaborn, визуализация данных.
 Обработка данных, визуализация данных, создание презентаций
+[Cсылка на презентацию](https://cloud.mail.ru/public/idrp/3JuxybZoG)
 
 Cсылка на презентацию https://cloud.mail.ru/public/idrp/3JuxybZoG
 
